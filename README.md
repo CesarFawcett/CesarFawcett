@@ -1,11 +1,12 @@
 # 💫 About Me:
-Actualmente estoy estudiando Ingeniería de sistemas<br>me desempeño bien en trabajos en equipo<br>contacto 57-3006240053 
+Estudiante de Ingeniería de Sistemas | Desarrollador | Apasionado por resolver problemas con código.
 
 
 # 💻 Tech Stack:
-### Frontend: HTML | CSS | JavaScript | React  
-### Backend: Node.js | Express | Spring  
-### Databases: MySQL | PostgreSQL  
+### Frontend: HTML | CSS | JavaScript | React | Node.js
+### Backend: Java  | Herramientas Spring 
+### Databases: MySQL | PostgreSQL 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CesarFawcett&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CesarFawcett&theme=highcontrast&hide_border=false)<br/>
