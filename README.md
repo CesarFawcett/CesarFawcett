@@ -1,12 +1,13 @@
 # 💫 About Me:
 # Hola 👋, soy César Fawcett  
-### Estudiante de Ingeniería de Sistemas | Desarrollador Web | Desarrollador
+### Estudiante de Ingeniería de Sistemas | Desarrollador Web | Full-Stack
 
 
 # 💻 Tech Stack:
 ### Frontend: HTML | CSS | JavaScript | React | Node.js
 ### Backend: Java  | Herramientas Spring 
 ### Databases: MySQL | PostgreSQL 
+## 📫 Cómo contactarme: cesarfawcett20@gmail.com |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CesarFawcett&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
