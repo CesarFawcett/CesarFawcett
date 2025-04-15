@@ -1,5 +1,6 @@
 # 💫 About Me:
-Estudiante de Ingeniería de Sistemas | Desarrollador | Apasionado por resolver problemas con código.
+# Hola 👋, soy César Fawcett  
+### Estudiante de Ingeniería de Sistemas | Desarrollador Web | Desarrollador
 
 
 # 💻 Tech Stack:
