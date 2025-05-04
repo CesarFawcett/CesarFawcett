@@ -29,6 +29,7 @@
 | [Tienda Online](https://github.com/CesarFawcett/tiendaApp) | API e-commerce | Spring Boot, jwt, OpenAPI |
 | [microservicios](https://github.com/CesarFawcett/microservicios) | implementacion de servicios Eureka y APYGATEWAY
 | [Frontend](https://github.com/CesarFawcett/frontend) | 
+ |[Portafolio](https://github.com/CesarFawcett/HojaDeVida) | 
 
 
 # 📊 GitHub Stats:
