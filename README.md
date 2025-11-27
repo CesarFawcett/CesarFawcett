@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mí::
 # Hola 👋, soy César Fawcett  
 ### Estudiante de Ingeniería de Sistemas | Desarrollador Web | Full-Stack
 proyectos actualizados
