@@ -21,6 +21,10 @@ proyectos actualizados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
+### DevOps / Contenedores:  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
+
 ## 📫 Cómo contactarme: cesarfawcett20@gmail.com |
 
 ## 🏆 Proyectos Destacados
