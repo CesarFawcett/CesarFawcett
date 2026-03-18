@@ -32,7 +32,7 @@ proyectos actualizados
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [Sistema de Reservas](https://github.com/CesarFawcett/TrabajoFinalWeb) | Backend para gestión de bookings | Spring Boot, Java, PostgreSQL |
-| [Tienda Online](https://github.com/CesarFawcett/VentasSantaMarta) | API e-commerce | Spring Boot, jwt, OpenAPI |
+| [Tienda Online](https://github.com/CesarFawcett/VentasSantaMarta) |plataforma de comercio electrónico moderna | Spring Boot, Security + jwt, React |
 | [microservicios](https://github.com/CesarFawcett/microservicios) | implementacion de servicios Eureka y APYGATEWAY
 | [Frontend](https://github.com/CesarFawcett/frontend) | 
  |[Portafolio](https://github.com/CesarFawcett/HojaDeVida) | 
