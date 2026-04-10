@@ -36,7 +36,7 @@ https://catalogohojadevida.netlify.app/#contact
 | [Tienda Online](https://github.com/CesarFawcett/VentasSantaMarta) |plataforma de comercio electrónico moderna | Spring Boot, Security + jwt, React |
 | [microservicios](https://github.com/CesarFawcett/microservicios) | implementacion de servicios Eureka y APYGATEWAY
 | [Frontend](https://github.com/CesarFawcett/frontend) | 
- ||[Portafolio](https://catalogohojadevida.netlify.app/#contact) | |
+| [Portafolio](https://catalogohojadevida.netlify.app/#contact) | 
 
 
 # 📊 GitHub Stats:
