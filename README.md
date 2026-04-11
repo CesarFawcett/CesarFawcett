@@ -5,7 +5,7 @@
   ### Full-Stack Developer | Software Engineering Student | Game Design Enthusiast
   
   [<img src="https://img.shields.io/badge/Portafolio-Ver%20Proyectos-blue?style=for-the-badge&logo=googlechrome&logoColor=white">](https://catalogohojadevida.netlify.app/)
-  [<img src="https://img.shields.io/badge/LinkedIn-César%20Fawcett-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white">]([TU_LINK_DE_LINKEDIN_AQUI](https://www.linkedin.com/in/cesar-david-fawcett-perozo-a8497b248/))
+  [<img src="https://img.shields.io/badge/LinkedIn-César%20Fawcett-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white">]((https://www.linkedin.com/in/cesar-david-fawcett-perozo-a8497b248/)
 </div>
 
 ---
