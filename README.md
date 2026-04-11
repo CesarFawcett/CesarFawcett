@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CesarFawcett/CesarFawcett/main/assets/cesar_fawcett_github_banner.png" alt="César Fawcett Banner" width="100%">
+
   
   # 💫 Conectando ideas a través del código
   ### Full-Stack Developer | Software Engineering Student | Game Design Enthusiast
